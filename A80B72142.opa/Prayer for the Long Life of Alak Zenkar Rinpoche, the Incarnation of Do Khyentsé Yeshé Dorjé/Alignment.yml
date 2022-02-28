@@ -1,0 +1,19 @@
+segment_sources:
+  PDA816FF8:
+    type: origin_type
+    relation: translation
+    language: en
+  PB6F8568D:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a6bfb7c7d50c4ff4860c6effd1214b06:
+    PDA816FF8: 0878697b2ca249289e55d0e6ff3d9113
+    PB6F8568D: d9931fce08bd41a5b6ba952b5140a037
+  23a5c2e3b9a9474089a7abdd6b9277bb:
+    PDA816FF8: 9e8b806b16d047bfaf09262ab6b3c649
+    PB6F8568D: 927f1cf679d74a2fb44ed0f90bc08de4
+  92072f5308cb42d082ec841c7bb4c42a:
+    PDA816FF8: 29775b3def5c444b8a1b3fecedc4ec5e
+    PB6F8568D: 39ef851d071045ba9fa58fe93a23f2a9
